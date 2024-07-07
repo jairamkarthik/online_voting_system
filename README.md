@@ -1,4 +1,4 @@
-This project is made for my academics and this cannot be used for general applications.
+This project is made for my academic purpose and this cannot be used for general applications.
 Languages used:
 1. PHP
 2. CSS
